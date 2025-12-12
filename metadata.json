@@ -1,0 +1,5 @@
+{
+  "name": "Inventário Inteligente",
+  "description": "Um aplicativo de gerenciamento de inventário (CRUD) com recursos de IA para autocompletar detalhes de itens e visualização de dados.",
+  "requestFramePermissions": []
+}
